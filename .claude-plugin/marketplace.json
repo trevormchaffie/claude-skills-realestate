@@ -1,0 +1,15 @@
+{
+  "name": "trevor-mchaffie-realestate",
+  "owner": {
+    "name": "Trevor McHaffie",
+    "email": "support@trevormchaffie.com"
+  },
+  "plugins": [
+    {
+      "name": "listing-fair-housing",
+      "source": "./skills/real-estate-listing-fair-housing",
+      "description": "Writes MLS and marketing listing descriptions with inline Fair Housing screening.",
+      "version": "1.6.0"
+    }
+  ]
+}
